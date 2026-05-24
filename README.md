@@ -2,6 +2,8 @@
 
 A lightweight and type-safe Node.js library for managing `.env` configuration files. Envfy makes it easy to read, write, and manage environment variables in your projects.
 
+**📦 NPM Package:** [@le4nnt0nn/envfy](https://www.npmjs.com/package/@le4nnt0nn/envfy)
+
 ## Features
 
 - ✅ **Simple API** - Intuitive methods for managing environment variables
