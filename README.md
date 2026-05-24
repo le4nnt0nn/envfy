@@ -16,13 +16,13 @@ A lightweight and type-safe Node.js library for managing `.env` configuration fi
 ## Installation
 
 ```bash
-npm install envfy
+npm i @le4nnt0nn/envfy
 ```
 
 or with yarn:
 
 ```bash
-yarn add envfy
+yarn add @le4nnt0nn/envfy
 ```
 
 ## Usage
